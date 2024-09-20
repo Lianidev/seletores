@@ -1,0 +1,26 @@
+div {
+display: inline-block;
+border: 1px solid black;
+ width: 200px;
+height: 200px;
+margin: -4px;
+    }
+    .vermelho {
+        background-color: red;
+    }
+    .azul {
+        background-color: dodgerblue;
+    }
+    .verde {
+     background-color: forestgreen;
+    }
+    .amarelo {
+        background-color: gold;
+    }
+    .canto {
+            display: inline-block;
+            border: 3px solid black;
+            width: 200px;
+            height: 200px;
+            }
+    .
